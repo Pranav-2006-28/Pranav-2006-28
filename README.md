@@ -12,7 +12,7 @@
 **Computer Engineering Student · Full-Stack Developer · AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Mahajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-mahajan28)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavmahajan492@gamil.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavmahajan492@gmail.com)
 
 <br>
 pranavmahajan492@gmail.com
