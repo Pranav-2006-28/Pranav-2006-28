@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavmahajan492@gamil.com)
 
 <br>
-
+pranavmahajan492@gmail.com
 <!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
